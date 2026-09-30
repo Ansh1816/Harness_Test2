@@ -1,0 +1,14 @@
+{
+  "key": "demo-001",
+  "lines": [
+    {
+      "sku": "notebook",
+      "quantity": 2
+    },
+    {
+      "sku": "pen",
+      "quantity": 3
+    }
+  ],
+  "discount_bps": 1000
+}
